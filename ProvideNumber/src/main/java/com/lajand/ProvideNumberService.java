@@ -11,7 +11,7 @@ public class ProvideNumberService {
     @RequestMapping("/")
     @ResponseBody
     public String getInvoice() {
-        return "Hello number 1";
+        return "Hello number 2";
     }
 }
 
