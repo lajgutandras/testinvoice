@@ -10,7 +10,7 @@ public class ProvideInvoicesService {
     @RequestMapping("/")
     @ResponseBody
     public String getInvoice() {
-        return "Hello invoices";
+        return "Hello invoices 1";
     }
 }
 
